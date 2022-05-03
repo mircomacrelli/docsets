@@ -1,0 +1,7 @@
+family: spring
+identifier: spring-integration-reference
+name: Spring Integration Reference Documentation
+baseUri: https://docs.spring.io/spring-integration/docs/current/reference/html/
+index: index.html
+titleSelector: .sect1 > h2, .sect2 > h3
+skip: index-single.html,whats-new.html

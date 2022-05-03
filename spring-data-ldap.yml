@@ -1,0 +1,6 @@
+family: spring
+identifier: spring-data-ldap-reference
+name: Spring Data LDAP Reference Documentation
+baseUri: https://docs.spring.io/spring-data/ldap/docs/current/reference/html/
+index: index.html
+titleSelector: h1

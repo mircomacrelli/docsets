@@ -1,0 +1,6 @@
+family: hibernate
+identifier: hibernate-validator-reference
+name: Hibernate Validator Reference Guide
+baseUri: https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/
+index: index.html
+titleSelector: .toc-link.node-name--H2

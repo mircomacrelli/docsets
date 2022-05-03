@@ -1,0 +1,6 @@
+family: hibernate
+identifier: hibernate-orm-reference
+name: Hibernate ORM User Guide
+baseUri: https://docs.jboss.org/hibernate/orm/5.6/userguide/html_single/
+index: Hibernate_User_Guide.html
+titleSelector: h1

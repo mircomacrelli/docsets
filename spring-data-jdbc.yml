@@ -1,0 +1,6 @@
+family: spring
+identifier: spring-data-jdbc-reference
+name: Spring Data JDBC Reference Documentation
+baseUri: https://docs.spring.io/spring-data/jdbc/docs/current/reference/html/
+index: index.html
+titleSelector: h1

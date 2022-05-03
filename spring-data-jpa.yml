@@ -1,0 +1,6 @@
+family: spring
+identifier: spring-data-jpa-reference
+name: Spring Data JPA Reference Documentation
+baseUri: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
+index: index.html
+titleSelector: h1

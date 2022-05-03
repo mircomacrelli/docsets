@@ -1,0 +1,6 @@
+family: spring
+identifier: spring-security-reference
+name: Spring Security Reference Documentation
+baseUri: https://docs.spring.io/spring-security/site/docs/current/reference/html5/
+index: index.html
+titleSelector: h1
