@@ -4,3 +4,4 @@ name: Spring Data JPA Reference Documentation
 baseUri: https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
 index: index.html
 titleSelector: h1
+dontIndex: index\.html

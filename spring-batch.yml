@@ -4,4 +4,4 @@ name: Spring Batch Reference Documentation
 baseUri: https://docs.spring.io/spring-batch/docs/current/reference/html/
 index: index.html
 titleSelector: h2
-skip: whatsnew.html,index-single.html
+dontIndex: whatsnew\.html|index-single\.html|index\.html

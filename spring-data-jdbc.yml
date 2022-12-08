@@ -4,3 +4,4 @@ name: Spring Data JDBC Reference Documentation
 baseUri: https://docs.spring.io/spring-data/jdbc/docs/current/reference/html/
 index: index.html
 titleSelector: h1
+dontIndex: index\.html

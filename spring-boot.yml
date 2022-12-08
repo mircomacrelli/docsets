@@ -4,4 +4,4 @@ name: Spring Boot Reference Documentation
 baseUri: https://docs.spring.io/spring-boot/docs/current/reference/html/
 index: index.html
 titleSelector: h1
-skip: legal.html
+dontIndex: legal\.html|index\.html
