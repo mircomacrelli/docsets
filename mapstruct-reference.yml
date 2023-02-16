@@ -1,0 +1,6 @@
+family: mapstruct
+identifier: mapstruct
+name: MapStruct Reference Guide
+baseUri: https://mapstruct.org/documentation/stable/reference/html/
+index: index.html
+titleSelector: h2
