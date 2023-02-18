@@ -1,0 +1,6 @@
+family: thymeleaf
+identifier: using-thymeleaf
+name: Using Thymeleaf
+baseUri: https://www.thymeleaf.org/doc/
+index: tutorials/3.1/usingthymeleaf.html
+titleSelector: h1
