@@ -5,4 +5,4 @@ baseUri: https://docs.spring.io/spring-security/reference/
 index: index.html
 titleSelector: h1
 dontIndex: index\.html
-dontCrawl: ^\d+\.\d+(?:\.\d+(?:-(?:RC\d+|M\d+))?)?/
+dontCrawl: ^\d+\.\d+(?:\.\d+)?(?:-SNAPSHOT|-RC\d+|CURRENT)?/
